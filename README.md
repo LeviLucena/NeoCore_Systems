@@ -62,8 +62,8 @@ Cada componente utiliza gráficos animados com **dados sintéticos**, atualizado
 
 ---
 
-## 🧪 Exemplo de Uso
-https://github.com/user-attachments/assets/18a5db75-fab2-4167-907e-2b36efd2841a
+## 🧪 Exemplo de Uso (🔊 Para uma experiência completa, lembre-se de ligar o som!)
+https://github.com/user-attachments/assets/a3a3aa27-9760-4b3e-a16d-479a75123ea2
 
 ---
 
