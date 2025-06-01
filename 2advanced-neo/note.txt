@@ -1,4 +1,0 @@
-execute no terminal vscode para liberar permissão e outro pra executar app
-
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass   
-npm run dev
