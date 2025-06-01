@@ -62,6 +62,11 @@ Cada componente utiliza gráficos animados com **dados sintéticos**, atualizado
 
 ---
 
+## 🧪 Exemplo de Uso
+https://github.com/user-attachments/assets/18a5db75-fab2-4167-907e-2b36efd2841a
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 ### Frontend
