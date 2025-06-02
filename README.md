@@ -41,9 +41,14 @@
 
 ![Gemini_Generated_Image_xetkzpxetkzpxetk](https://github.com/user-attachments/assets/a93cf9dc-abe9-4a7d-9200-3735fcbe6b63)
 
-**NeoCore Systems** é um projeto visual experimental que simula um painel de controle de uma inteligência artificial avançada em tempo real, com estética inspirada em filmes de ficção científica como *Tron*, *Matrix* e no clássico site **2Advanced Studios**.
+Este projeto oferece uma interface futurista e interativa que oferece visualizações em tempo real dos dados do sistema NeoCore, utilizando React para a experiência dinâmica, Tailwind para um design moderno e tecnológico, e APIs para dados em tempo real de satélites, sensores ou bancos de dados futuristas. NeoCore Systems é um projeto visual experimental que simula um futurista painel de controle de uma inteligência artificial avançada operando em tempo real. 
+
+Este sistema visual foi pensado como às interfaces vistas em filmes de ficção científica de última geração — com elementos que lembram os painéis de controle de naves espaciais, centros de comando de inteligência artificial e sistemas militares ultra secrets. Inspirado também pelo icônico estilo visual do lendário site 2Advanced Studios, o NeoCore combina referências culturais e elementos visuais de alta tecnologia.
 
 > ⚠️ **Atenção**: Este projeto é **puramente educacional**. Todos os dados exibidos são **fictícios**, gerados aleatoriamente com propósitos de teste, animação visual e aprendizado de tecnologias front-end modernas.
+
+## 🎯 Propósito
+O objetivo principal não é utilitário, e sim artístico e técnico: explorar o que é possível criar com tecnologias modernas de front-end, simulando um sistema real com visual de ficção científica. Ideal para portfólios criativos, apresentações, eventos de UI/UX futurista ou mesmo como ponto de partida para dashboards temáticos.
 
 ---
 
@@ -125,6 +130,8 @@ _(Se necessário, configure a política de execução de scripts no PowerShell c
 ```bash
 📦 NeoCore Systems
 ├── public/                  # Arquivos públicos (favicon, imagens, etc.)
+│   ├── sounds/
+│   │   ├── loading-music.mp3 
 ├── src/
 │   ├── components/          # Componentes modulares da interface
 │   │   ├── Header.jsx       # Menu superior com navegação futurista
