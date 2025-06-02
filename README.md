@@ -99,7 +99,12 @@ https://github.com/user-attachments/assets/a3a3aa27-9760-4b3e-a16d-479a75123ea2
 
 ---
 
-## 🚀 Como Executar Localmente
+## ⚙️ Como Instalar e Executar Localmente
+Se você quiser rodar o projeto localmente, siga os passos abaixo:
+
+0. **Pré-requisitos**
+- Node.js 18+ (https://nodejs.org)
+- npm ou yarn
 
 1. **Clone o repositório**
 ```bash
@@ -110,13 +115,17 @@ cd NeoCore_Systems
 2. Instale as dependências
 ```bash
 npm install
+# ou
+yarn install
 ```
 
 3. Inicie a aplicação
 ```bash
 npm run dev
+# ou
+yarn dev
 ```
-_(Se necessário, configure a política de execução de scripts no PowerShell com):_
+_(Se necessário, configure a política de execução de scripts no Terminal com):_
 > Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```Terminal  
 - Set-ExecutionPolicy: ajusta a política de execução de scripts no PowerShell.  
@@ -124,7 +133,7 @@ _(Se necessário, configure a política de execução de scripts no PowerShell c
 - ExecutionPolicy Bypass: permite a execução de scripts sem que sejam feitas verificações de assinatura ou restrições.
 ```
 
-4. Acesse em http://localhost:3000
+4. O projeto será iniciado em http://localhost:5173
 
 ## 📁 Estrutura Básica
 ```bash
