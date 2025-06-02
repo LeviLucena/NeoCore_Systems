@@ -71,10 +71,12 @@ Cada componente utiliza gráficos animados com **dados sintéticos**, atualizado
 https://github.com/user-attachments/assets/a3a3aa27-9760-4b3e-a16d-479a75123ea2
 
 ---
+> Veja o vídeo completo no artigo do LinkedIn.  [ Clique aqui ](https://www.linkedin.com/pulse/prototipando-interfaces-de-ia-em-react-uma-sci-fi-com-levi-lucena-n53xf)
 
 | ![image1](https://github.com/user-attachments/assets/0ffdd6b0-4857-44d9-9a88-c4534a612f42) | ![image2](https://github.com/user-attachments/assets/b55cccbb-cd9a-4388-a891-1a30200896e1) | ![image3](https://github.com/user-attachments/assets/baf503dd-982f-4d0f-9a4d-e2a7eec1f9f1) | ![image4](https://github.com/user-attachments/assets/f2c456e2-ac7d-4d57-b785-ab46210049d5) |
 |:---:|:---:|:---:|:---:|
 | ![image5](https://github.com/user-attachments/assets/140ce9ce-bd25-4b40-af9b-c9f624b515fe) | ![image6](https://github.com/user-attachments/assets/4d33096d-9c8e-4fed-92fa-8dd73455e4ab) | ![image7](https://github.com/user-attachments/assets/6d3a4949-0166-4404-827e-3919a9f4c241) | ![image8](https://github.com/user-attachments/assets/fe09bc88-5a92-49f7-b744-d2b7307f8b91) |
+| ![image9](https://github.com/user-attachments/assets/5a067f33-acdb-4b06-a9a5-05882378e8c9) | ![image10](https://github.com/user-attachments/assets/ff3ada33-5c0c-458f-84de-bc4359e0d199) | ![image11](https://github.com/user-attachments/assets/2e65819b-f4ec-46e0-803b-587e3aea26aa) | |
 
 
 ## 🛠️ Tecnologias Utilizadas
