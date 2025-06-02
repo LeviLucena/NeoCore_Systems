@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Features from './components/Features';
 import QuantumNetwork from './components/QuantumNetwork'; // Novo componente
+import QuantumEncryptionVault from './components/QuantumEncryptionVault';
 import SystemStatus from './components/SystemStatus';
 import CyberThreats from './components/CyberThreats';
 import CommandConsole from './components/CommandConsole';
@@ -23,6 +24,7 @@ export default function App() {
         <Hero />
         <Features />
         <QuantumNetwork /> {/* Adicionado aqui */}
+        <QuantumEncryptionVault />
         <SatelliteControl />
         <SystemStatus />
         <CyberThreats />
