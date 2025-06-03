@@ -127,7 +127,7 @@ npm run dev
 # ou
 yarn dev
 ```
-_(Se necessário, configure a política de execução de scripts no Terminal com):_
+_(Se necessário, caso execute em ambiente local, configure a política de execução de scripts no Terminal com):_
 > Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```Terminal  
 - Set-ExecutionPolicy: ajusta a política de execução de scripts no PowerShell.  
