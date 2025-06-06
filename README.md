@@ -127,13 +127,17 @@ npm run dev
 # ou
 yarn dev
 ```
-_(Se necessário, caso execute em ambiente local, configure a política de execução de scripts no Terminal com):_
-> Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+_(Se necessário, caso execute em ambiente local, configure a política de execução de scripts no PowerShell):_
+
+✅ Solução: Habilitar execução de scripts no PowerShell<br>
+Siga este passo para liberar a execução:
+
+1. Abra o PowerShell como Administrador
+2. Rode este comando para liberar a execução de scripts:
 ```Terminal  
-- Set-ExecutionPolicy: ajusta a política de execução de scripts no PowerShell.  
-- Scope Process: aplica a mudança somente à sessão atual do PowerShell.  
-- ExecutionPolicy Bypass: permite a execução de scripts sem que sejam feitas verificações de assinatura ou restrições.
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
+Se perguntar algo, digite S (Sim) e pressione Enter.
 
 4. O projeto será iniciado em http://localhost:5173
 
